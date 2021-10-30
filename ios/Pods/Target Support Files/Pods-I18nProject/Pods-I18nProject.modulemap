@@ -1,0 +1,6 @@
+module Pods_I18nProject {
+  umbrella header "Pods-I18nProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

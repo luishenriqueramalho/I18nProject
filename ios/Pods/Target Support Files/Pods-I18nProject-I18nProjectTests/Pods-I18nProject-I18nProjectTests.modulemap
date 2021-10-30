@@ -1,0 +1,6 @@
+module Pods_I18nProject_I18nProjectTests {
+  umbrella header "Pods-I18nProject-I18nProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
